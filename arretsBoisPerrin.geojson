@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "arretsBoisPerrin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ap_timeo": "1112", "ap_type": "mobilier", "ap_nom": "Vitré Danton", "ap_insee": "35238", "desserte": "C5 10", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Oui", "poubelle": "Non", "ap_attract": 300 }, "geometry": { "type": "Point", "coordinates": [ -1.65106296471741, 48.11892966488417 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "1151", "ap_type": "mobilier", "ap_nom": "Vitré Danton", "ap_insee": "35238", "desserte": "C5 10", "acces_pmr": "Oui", "mobilier": "Abri auvent", "banc": "Non", "eclairage": "Oui", "poubelle": "Non", "ap_attract": 300 }, "geometry": { "type": "Point", "coordinates": [ -1.651588838121133, 48.118732728395145 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "1201", "ap_type": "mobilier", "ap_nom": "Vitré Foulon", "ap_insee": "35238", "desserte": "14", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Oui", "poubelle": "Oui", "ap_attract": 300 }, "geometry": { "type": "Point", "coordinates": [ -1.649110795531124, 48.11910156406941 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "1514", "ap_type": "mobilier", "ap_nom": "Moulin de Joué", "ap_insee": "35238", "desserte": "67 TTZ", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Oui", "poubelle": "Oui", "ap_attract": 300 }, "geometry": { "type": "Point", "coordinates": [ -1.647647629053595, 48.113325636768984 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "1515", "ap_type": "mobilier", "ap_nom": "Moulin de Joué", "ap_insee": "35238", "desserte": "67", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Oui", "poubelle": "Non", "ap_attract": 300 }, "geometry": { "type": "Point", "coordinates": [ -1.647569287156111, 48.113631162291981 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "1522", "ap_type": "mobilier", "ap_nom": "Piletière", "ap_insee": "35238", "desserte": "67", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Oui", "poubelle": "Non", "ap_attract": 300 }, "geometry": { "type": "Point", "coordinates": [ -1.642718512757583, 48.113883847163613 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "1528", "ap_type": "mobilier", "ap_nom": "Piletière", "ap_insee": "35238", "desserte": "67", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Oui", "poubelle": "Non", "ap_attract": 300 }, "geometry": { "type": "Point", "coordinates": [ -1.644419531817195, 48.113992439092748 ] } }
+]
+}
